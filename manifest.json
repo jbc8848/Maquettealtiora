@@ -1,0 +1,13 @@
+{
+  "name": "Maquette — Altiora",
+  "short_name": "Maquette",
+  "description": "Maquette interactive du système de réservation du bureau des guides Altiora.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F7F6",
+  "theme_color": "#14303E",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
